@@ -77,6 +77,7 @@ Ahmad
 - [Aaryan Ajith Dev](https://github.com/Aaryan-Ajith-Dev) **First open source contribution!**
 - [Miguel Arturo Madrigal Escoto](https://github.com/Miguel-Arturo-Madrigal-Escoto) **This is my first open source contribution**
 - [Jared Hooker](https://github.com/jrh89) **here we go**
+- [Elisabeth Sepulveda]
 - [Krupal Shah](https://github.com/krupal-shah) **Trying out OpenSource contributions and am very excited about it!!!**
 - [Samuel Apaza](https://github.com/SamuelHumasi)**My first contribution. Hoping to contribute more!!** 🇵🇪
 - [Yago Pazos](https://github.com/Pletus) **Hello World, Starting my open source journey!**
